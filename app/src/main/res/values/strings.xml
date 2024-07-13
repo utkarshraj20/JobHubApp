@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CareerLink</string>
+    <string name="role">Role: %s</string>
+    <string name="job_category">Job Category: %s</string>
+    <string name="place">Location: %s</string>
+    <string name="salary">Salary: %s</string>
+    <string name="experience">Experience: %s</string>
+    <string name="qualification">Qualification: %s</string>
+    <string name="contact_time">Contact Time: %s to %s</string>
+    <string name="openings">Openings: %s</string>
+    <string name="contact">Contact: %s</string>
+    <string name="bookmark_errorcase">No Saved Job</string>
+    <string name="job_errorcase">No Job Found</string>
+    <string name="jobs">Jobs</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="your_bookmarks">Your Bookmarks</string>
+</resources>
